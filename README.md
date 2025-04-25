@@ -1,2 +1,1 @@
-# pair_programming
-This is a pair repo
+this is readme file
